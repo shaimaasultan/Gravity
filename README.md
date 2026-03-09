@@ -1,4 +1,4 @@
-# Sea of Locked Energy
+# "The Kinetic Release of Locked Field Energy"
 This research is predicated on the definition of the Universe as a dynamic sea of energy that is Locked by cancellation and Freed by movement.
 # 🌌 Unified Field Theory: The 8-Planet Resonant Orrery
 A computational model exploring the **Sea of Energy** and the **Yasbahun (Swimming) Principle** through planetary weight and orbital resonance.
@@ -14,7 +14,12 @@ Our model operates on four primary physical pillars:
 2.  **Induction is a Phase Shift:** Moving a mass or magnet introduces a **Time-Based Phase Shift ($t$)**. This breaks the cancellation and "frees" energy into a measurable state (Electricity/Light).
 3.  **Gravity is a Grid Deformation:** Gravity is the "scrunching" of the spatial grid. Massive objects concentrate energy density, naturally bending the path of light through the plenum.
 4.  **Universal Rotation:** Systems use rotation to organize and flip their "locked" energy. This prevents the universe from settling into a "dead" or inactive state.
+### 🪐 Gravity: The "Scrunch" of the Grid
+In this theory, Gravity is not a separate force. It is the **Spatial Density Gradient** of the Locked Field:
 
+* **The Grid:** Space is a uniform grid of phase-cancelled energy.
+* **The Deformation:** Large weights ($W$) "scrunch" this grid together.
+* **The Result:** This density change creates the "Slope" we call Gravity. Light and matter simply follow the path of highest grid-density.
 ## 📑 Formal Documentation
 
 Explore the complete mathematical and philosophical derivation of this model:
