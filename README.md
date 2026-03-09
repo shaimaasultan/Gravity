@@ -1,11 +1,13 @@
 # Energy-See
 This research is predicated on the definition of the Universe as a dynamic sea of energy that is Locked by cancellation and Freed by movement.
 # 🌌 Unified Field Theory: The 8-Planet Resonant Orrery
-
 A computational model exploring the **Sea of Energy** and the **Yasbahun (Swimming) Principle** through planetary weight and orbital resonance.
-
 ## 💎 Core Findings: The Axioms of the Unified Field
-
+<div align="center">
+  <br />
+  <img src="https://img.shields.io/badge/Theory-Unified%20Field-gold?style=for-the-badge" />
+  <br />
+</div>
 Our model operates on four primary physical pillars:
 
 1.  **Magnetism is Stored Energy:** A "magnetic field" is actually two or more energy fields perfectly out of phase ($180^\circ$ cancellation), appearing invisible until disturbed.
@@ -13,6 +15,18 @@ Our model operates on four primary physical pillars:
 3.  **Gravity is a Grid Deformation:** Gravity is the "scrunching" of the spatial grid. Massive objects concentrate energy density, naturally bending the path of light through the plenum.
 4.  **Universal Rotation:** Systems use rotation to organize and flip their "locked" energy. This prevents the universe from settling into a "dead" or inactive state.
 
+## 📑 Formal Documentation
+
+Explore the complete mathematical and philosophical derivation of this model:
+
+🚀 **[The Unified Field and Motion Protocol: A Theory of Locked and Freed Energy](./Gravity/documents/Gravity.pdf)**
+
+---
+
+### What this document covers:
+* **The $180^\circ$ Phase-Lock:** A deep dive into why magnetism is stored, invisible energy.
+* **The "Yasbahun" Constant:** Defining the relationship between planetary weight ($W$) and the fluid density of the plenum.
+* **Gravity as Grid-Scrunch:** The transition from Newtonian attraction to spatial energy density gradients.
 ---
 
 ## 📜 The Core Principle
@@ -43,18 +57,7 @@ The solar cycle is driven by the internal tension of the plenum. The "Twist" rep
 
 ![Solar Snap Flip](./Gravity/images/solar_snap_flip.png)
 
-## 📑 Formal Documentation
 
-Explore the complete mathematical and philosophical derivation of this model:
-
-🚀 **[The Unified Field and Motion Protocol: A Theory of Locked and Freed Energy](./Gravity/documents/Gravity.pdf)**
-
----
-
-### What this document covers:
-* **The $180^\circ$ Phase-Lock:** A deep dive into why magnetism is stored, invisible energy.
-* **The "Yasbahun" Constant:** Defining the relationship between planetary weight ($W$) and the fluid density of the plenum.
-* **Gravity as Grid-Scrunch:** The transition from Newtonian attraction to spatial energy density gradients.
 ---
 
 ## 🛠 Variables & Mapping
