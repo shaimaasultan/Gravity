@@ -61,8 +61,14 @@ This map illustrates the total systemic interference lattice. The outer giants c
 The solar cycle is driven by the internal tension of the plenum. The "Twist" represents the phase offset between interior energy and the surface magnetic field.
 
 ![Solar Snap Flip](./Gravity/images/solar_snap_flip.png)
-
-
+![Solar Snap Flip](./Gravity/images/Screenshot2026-03-12001923.png)
+![Solar Snap Flip](./Gravity/images/Screenshot2026-03-12001344.png)
+![Solar Snap Flip](./Gravity/images/Screenshot2026-03-12005428.png)
+![Solar Snap Flip](./Gravity/images/Screenshot2026-03-12011420.png)
+![Solar Snap Flip](./Gravity/images/planetary_resonance.png)
+![Solar Snap Flip](./Gravity/images/field_tension_analysis.png)
+![Solar Snap Flip](./Gravity/images/full_orrery_resonance.png)
+![Solar Snap Flip](./Gravity/images/Acceleration_Jerk_Spike.png)
 ---
 
 ## 🛠 Variables & Mapping
