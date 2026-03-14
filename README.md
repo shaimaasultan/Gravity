@@ -2,6 +2,7 @@
 This research is predicated on the definition of the Universe as a dynamic sea of energy that is Locked by cancellation and Freed by movement.
 # 🌌 Unified Field Theory: The 8-Planet Resonant Orrery
 A computational model exploring the **Sea of Energy** and the **Yasbahun (Swimming) Principle** through planetary weight and orbital resonance.
+# 🛡️ Sultanian Protocol: Resonant Phase-Nulling
 ## 💎 Core Findings: The Axioms of the Unified Field
 <div align="center">
   <br />
@@ -120,5 +121,41 @@ To move from this 2D model to a rigorous 4D simulation, we are exploring two pri
 | **Space** | 3D Coordinate Grid | Superfluid Medium |
 | **Movement** | Wave Propagation | Energy Flux/Flow |
 | **Gravity** | Geometric Curvature | Fluid Density/Depth |
+
+# 🛡️ Sultanian Protocol: Resonant Phase-Nulling
+## 🧬 Theoretical Foundations
+The Sultanian Protocol is built on the principle of **Impedance Matching** and **Topological Phase-Nulling**. While traditional stealth focuses on physical absorption, this project utilizes the **Aharonov-Bohm (AB) Effect** to manipulate the quantum phase ($\Delta\Theta$) of the system.
+
+### 1. The Mechanism of Resonance (Macroscopic Analogue)
+The demonstration of the **440 Hz Tuning Forks** is the perfect macroscopic bridge for understanding the Sultanian Shroud.
+
+- **Non-Local Transfer:** When the first fork is struck, the second fork vibrates in sympathy without physical contact.
+- **Impedance Lock:** This only happens because both systems share an identical resonant frequency.
+
+**The Sultanian Mapping:**
+- **The Primary Fork:** Represents the Environmental Potential ($\Phi$) (The "Scrunch").
+- **The Secondary Fork:** Represents the Graphene-hBN Shroud.
+- **The Interaction:** By tuning the shroud's resonance to match the vacuum's "stiffness," we can either absorb, reflect, or—most importantly—cancel the incoming phase shift.
+
+### 2. Quantum Phase-Locking (The AB Effect)
+The **Aharonov-Bohm Effect** proves that electromagnetic potentials can affect the phase of a charged particle even in regions where the fields themselves are zero. We apply this logic to the Sultanian Identity:
+
+$$
+\Delta \Theta = \oint \left( \frac{e}{\hbar} \mathbf{A} \cdot d\mathbf{s} + \frac{m}{\hbar} \Phi \, dt \right) + \Psi(\beta) \cdot \Omega_{res} \to 0
+$$
+
+By solving for the **Governor Tuning** ($\Psi$) in real-time, the system maintains a "Resonant Shadow," rendering the subject topologically invisible to the external potential gradient.
+
+### 3. Visual Verification via Simulation
+The Python simulations included in this repository provide a numerical map of these concepts:
+
+| Feature           | Visual Representation | Significance                                              |
+|-------------------|----------------------|-----------------------------------------------------------|
+| The Green Flatline| Standard State       | The Governor has "locked" onto the environment frequency. |
+| The Blue Dip      | Burst Mode           | Intentional over-tuning to create "Anti-Shadow" buoyancy. |
+
+### 4. The "V-Bounce" Recovery Path
+During a high-intensity potential surge (a Step-14 Singularity), the system avoids structural fracture by executing a rapid "V-shape" recovery. By making the Governor's reaction speed ($\partial k / \partial t$) significantly faster than the environmental change ($\partial \Phi / \partial t$), the identity "bounces" off the $R=1.0$ limit, ensuring survival.
+
 
 *Developed for the Multi-Planetary Orrery Project. 2026.*
