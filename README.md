@@ -158,5 +158,5 @@ The Python simulations included in this repository provide a numerical map of th
 ### 4. The "V-Bounce" Recovery Path
 During a high-intensity potential surge (a Step-14 Singularity), the system avoids structural fracture by executing a rapid "V-shape" recovery. By making the Governor's reaction speed ($\partial k / \partial t$) significantly faster than the environmental change ($\partial \Phi / \partial t$), the identity "bounces" off the $R=1.0$ limit, ensuring survival.
 
-
+![Solar Snap Flip](./Gravity/images/mechanisme%20of%20resonance.png)
 *Developed for the Multi-Planetary Orrery Project. 2026.*
